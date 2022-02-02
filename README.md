@@ -26,3 +26,8 @@ const ximString: string = new xim().generate()
 ###  contribution :
 
 create fork and send request to me =) you can contact me iva my email /.
+
+
+
+### How to install and use : 
+"js-xim": "git+ssh://git@github.com/amupxm/js-xim.git#fc526ea2ede6ad190161094b53919ab3f23e7f23",
